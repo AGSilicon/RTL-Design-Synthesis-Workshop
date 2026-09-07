@@ -1,7 +1,5 @@
 # Master RTL Design & Synthesis --- VSD Workshop
 
-![VSD Certificate](/certificate.png)
-
 ## Overview
 
 This repository contains my practical learning, RTL implementations,
