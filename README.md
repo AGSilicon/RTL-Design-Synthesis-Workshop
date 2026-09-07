@@ -1,6 +1,6 @@
 # Master RTL Design & Synthesis --- VSD Workshop
 
-![VSD Certificate](docs/certificate.png)
+![VSD Certificate](/certificate.png)
 
 ## Overview
 
